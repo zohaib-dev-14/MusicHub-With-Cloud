@@ -10,7 +10,7 @@ This project emphasizes backend architecture, clean flow handling, JWT authentic
 
 Below is the clean folder structure of the project:
 
-![Project Structure] <p align="center">
+ <p align="center">
   <img src="screenshots/file0.png" width="700"/>
 </p>
 
@@ -24,7 +24,7 @@ Below is the clean folder structure of the project:
 
 Before processing, incoming data is validated.
 
-![Input Validation] <p align="center">
+<p align="center">
   <img src="screenshots/file1.png" width="700"/>
 </p>
 
@@ -36,7 +36,7 @@ Before processing, incoming data is validated.
 * Password hashed using bcrypt
 * User stored securely in MongoDB
 
-![User Registration] <p align="center">
+<p align="center">
   <img src="screenshots/file2.png" width="700"/>
 </p>
 
@@ -48,7 +48,7 @@ Before processing, incoming data is validated.
 * Password compared using bcrypt
 * JWT token generated upon successful login
 
-![User Login] <p align="center">
+<p align="center">
   <img src="screenshots/file3.png" width="700"/>
 </p>
 ---
@@ -60,7 +60,7 @@ Before processing, incoming data is validated.
 * Middleware verifies token
 * Role-based access enforced
 
-![JWT Protection]  <p align="center">
+ <p align="center">
   <img src="screenshots/file4.png" width="700"/>
 </p>
 
@@ -73,7 +73,7 @@ Before processing, incoming data is validated.
 * ImageKit returns secure URL
 * Metadata stored in MongoDB
 
-![Artist Upload] <p align="center">
+<p align="center">
   <img src="screenshots/file5.png" width="700"/>
 </p>
 
