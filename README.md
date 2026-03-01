@@ -10,24 +10,16 @@ This project emphasizes backend architecture, clean flow handling, JWT authentic
 
 Below is the clean folder structure of the project:
 
-![Project Structure](screenshots/file0.png)
+![Project Structure]
+<p align="center">
+  <img src="screenshots/file0.png" width="700"/>
+</p>
 
 > Note: This project does not implement a complete enterprise-level feature-based architecture. Files are organized in a simplified structure for learning clarity. This is a capstone project focused on backend fundamentals rather than large-scale production architecture.
 
 ---
 
 # 🔐 Authentication & Security Flow
-
-## 0️⃣ Folder Structure 
-
-Before Discussing, Project One view of Folder Structure.
-
-![Folder Structure]
-<p align="center">
-  <img src="screenshots/file0.png" width="700"/>
-</p>
-
----
 
 ## 1️⃣ Input Validation
 
